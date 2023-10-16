@@ -11,7 +11,7 @@ export WSPATH=${WSPATH:-'argo'}
 export UUID=${UUID:-'fb4e194a-9da7-4dec-8cc2-682feed3f4a8'}
 export CFIP=${CFIP:-'443.cf.bestl.de'}
 export NAME=${NAME:-''}
-export SERVER_PORT="${SERVER_PORT:-${PORT:-3000}}"
+export SERVER_PORT="${SERVER_PORT:-${PORT:-7860}}"
 export port1=${port1:-'8080'}
 
 z="
