@@ -4,9 +4,9 @@ export NEZHA_SERVER=${NEZHA_SERVER:-'nz.fcuk.eu.org'}
 export NEZHA_PORT=${NEZHA_PORT:-'5555'}
 export NEZHA_KEY=${NEZHA_KEY:-'FDkAPsIWBsOf60ToXl'}
 export TLS=${TLS:-'0'}
-export ARGO_DOMAIN=${ARGO_DOMAIN:-'zeaburhk.bpel.eu.org'}
+export ARGO_DOMAIN=${ARGO_DOMAIN:-'zea.talku.tk'}
 export WEB_DOMAIN=${WEB_DOMAIN:-'example.com'}
-export ARGO_AUTH=${ARGO_AUTH:-'eyJhIjoiMjgyZmU5MTBjM2NiOGU4MmZiZmRmNTg1NWFiNzgxZGYiLCJ0IjoiODg4NzMyNzItMzc5Mi00NDYyLTg1MjYtMDhhMDFhOTRmYWFkIiwicyI6IlptWmtZV1ZtTVRBdFlqWmhOeTAwT0RVd0xUZzNPR1V0TVdOaFpqTTRNVEpqTVdGaSJ9'}
+export ARGO_AUTH=${ARGO_AUTH:-'{"AccountTag":"b4dbebaac0afa9f17f4e965aa0c0583a","TunnelSecret":"ATQIdwSXoIU7DrLTp2qjcqpvCisrYLXPI5Baztta4Z0=","TunnelID":"b02d52af-3f01-4489-ad70-3ba6af817ffe"}'}
 export WSPATH=${WSPATH:-'argo'}
 export UUID=${UUID:-'fb4e194a-9da7-4dec-8cc2-682feed3f4a8'}
 export CFIP=${CFIP:-'443.cf.bestl.de'}
