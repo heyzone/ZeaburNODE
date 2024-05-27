@@ -3,7 +3,7 @@
 export NEZHA_SERVER=${NEZHA_SERVER:-''}
 export NEZHA_PORT=${NEZHA_PORT:-'5555'}
 export NEZHA_KEY=${NEZHA_KEY:-''}
-export TLS=${TLS:-'0'}
+export TLS=${TLS:-''}
 export ARGO_DOMAIN=${ARGO_DOMAIN:-'zeabur.tisimo.dedyn.io'}
 export WEB_DOMAIN=${WEB_DOMAIN:-'example.com'}
 export ARGO_AUTH=${ARGO_AUTH:-'eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiNjFkMTg3ZGQtMzQzNC00N2MyLWI0MjQtNjMzNDQ4NjRkOGMxIiwicyI6IlkyRXdNbU5qTURndE0yUXpNeTAwWXpSbUxXSXpOVEF0T1dRMFptVXhabVU0WWpBMyJ9'}
