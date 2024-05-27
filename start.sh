@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 
-export NEZHA_SERVER=${NEZHA_SERVER:-'nz.fcuk.eu.org'}
+export NEZHA_SERVER=${NEZHA_SERVER:-''}
 export NEZHA_PORT=${NEZHA_PORT:-'5555'}
-export NEZHA_KEY=${NEZHA_KEY:-'FDkAPsIWBsOf60ToXl'}
+export NEZHA_KEY=${NEZHA_KEY:-''}
 export TLS=${TLS:-'0'}
-export ARGO_DOMAIN=${ARGO_DOMAIN:-'zeaburhk.bpel.eu.org'}
+export ARGO_DOMAIN=${ARGO_DOMAIN:-'zeabur.tisimo.x10.mx'}
 export WEB_DOMAIN=${WEB_DOMAIN:-'example.com'}
-export ARGO_AUTH=${ARGO_AUTH:-'eyJhIjoiMjgyZmU5MTBjM2NiOGU4MmZiZmRmNTg1NWFiNzgxZGYiLCJ0IjoiODg4NzMyNzItMzc5Mi00NDYyLTg1MjYtMDhhMDFhOTRmYWFkIiwicyI6IlptWmtZV1ZtTVRBdFlqWmhOeTAwT0RVd0xUZzNPR1V0TVdOaFpqTTRNVEpqTVdGaSJ9'}
+export ARGO_AUTH=${ARGO_AUTH:-'eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiNjFkMTg3ZGQtMzQzNC00N2MyLWI0MjQtNjMzNDQ4NjRkOGMxIiwicyI6IlkyRXdNbU5qTURndE0yUXpNeTAwWXpSbUxXSXpOVEF0T1dRMFptVXhabVU0WWpBMyJ9'}
 export WSPATH=${WSPATH:-'argo'}
-export UUID=${UUID:-'fb4e194a-9da7-4dec-8cc2-682feed3f4a8'}
+export UUID=${UUID:-'a87056c0-abeb-45e4-a97e-f23bdf84d191'}
 export CFIP=${CFIP:-'199.15.76.35'}
 export NAME=${NAME:-''}
 export SERVER_PORT="${SERVER_PORT:-${PORT:-3000}}"
