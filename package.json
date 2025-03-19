@@ -1,15 +1,13 @@
 {
-  "name": "hello",
-  "version": "1.1.1",
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "node",
   "main": "index.js",
-  "repository": "",
-  "author": "",
-  "license": "Apache-2.0",
-  "private": true,
+  "author": "admin",
+  "license": "MIT",
+  "private": false,
   "scripts": {
     "start": "node index.js"
-  },
-  "dependencies": {  
   },
   "engines": {
     "node": ">=14"
