@@ -4,13 +4,13 @@ export NEZHA_SERVER=${NEZHA_SERVER:-''}
 export NEZHA_PORT=${NEZHA_PORT:-'5555'}
 export NEZHA_KEY=${NEZHA_KEY:-''}
 export TLS=${TLS:-''}
-export ARGO_DOMAIN=${ARGO_DOMAIN:-'zeabur.tisimo.dedyn.io'}
+export ARGO_DOMAIN=${ARGO_DOMAIN:-'netlify.furnicare.eu.org'}
 export WEB_DOMAIN=${WEB_DOMAIN:-'example.com'}
-export ARGO_AUTH=${ARGO_AUTH:-'eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiNjFkMTg3ZGQtMzQzNC00N2MyLWI0MjQtNjMzNDQ4NjRkOGMxIiwicyI6IlkyRXdNbU5qTURndE0yUXpNeTAwWXpSbUxXSXpOVEF0T1dRMFptVXhabVU0WWpBMyJ9'}
+export ARGO_AUTH=${ARGO_AUTH:-'eyJhIjoiNTk5MzUwOTkyOTQzNmJkYzVhNTdmYjJmN2Y5YTlkMjAiLCJ0IjoiMjQ2MzViNTEtZDA0NC00YTFiLTg4ODMtMWZmOWRiYWFmMTgzIiwicyI6Ik9HRmhPVEJqTTJRdFptUTRPQzAwTUdKaExUbGhNemN0TnpRd05XVTRNRGhsTVRrNCJ9'}
 export WSPATH=${WSPATH:-''}
 export UUID=${UUID:-'a87056c0-abeb-45e4-a97e-f23bdf84d191'}
 export CFIP=${CFIP:-'usa.visa.com'}
-export NAME=${NAME:-'Zeabur'}
+export NAME=${NAME:-'Netlify'}
 export SERVER_PORT="${SERVER_PORT:-${PORT:-3000}}"
 export port1=${port1:-'8080'}
 
